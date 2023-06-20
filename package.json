@@ -18,6 +18,11 @@
     "supertest": "^6.3.3"
   },
   "jest": {
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!**/node_modules/**",
+      "!**/jest.config.js**"
+    ],
     "coverageThreshold": {
       "global": {
         "branches": 80,
