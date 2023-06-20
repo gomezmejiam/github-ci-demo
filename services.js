@@ -1,8 +1,6 @@
 const express = require('express');
 const services = express();
 
-services.get('/', (req, res) => res.send('Hola Mundo!'));
-
 services.get('/suma', (req, res) => {
   const num1 = parseInt(req.query.numero1);
   const num2 = parseInt(req.query.numero2);
