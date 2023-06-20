@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d834a46-484f-4844-bd0e-fbd5d0a54c1b" name="Changes" comment="Ajustar inicio de archivos" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ROZBLAa7bAlXbOlLYhf6diGOBm" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "18.16.18",
+    "last_opened_file_path": "/Users/meryluzespinosa/projects/github-ci-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/__tests__" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="github-ci-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="github-ci-demo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d834a46-484f-4844-bd0e-fbd5d0a54c1b" name="Changes" comment="" />
+      <created>1687122955303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687122955303</updated>
+      <workItem from="1687122957859" duration="19782000" />
+      <workItem from="1687272942116" duration="353000" />
+      <workItem from="1687273312658" duration="305000" />
+      <workItem from="1687273643388" duration="17000" />
+      <workItem from="1687273704335" duration="1356000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <created>1687125467065</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687125467065</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test github action">
+      <created>1687127562782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687127562783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test github action">
+      <created>1687128461399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687128461399</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregar tes github action">
+      <created>1687128881998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687128881998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Agregar script de inicio">
+      <created>1687134870544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687134870545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajustar puerto de la aplicacion">
+      <created>1687135400184</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687135400184</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Probar despliegue automatico">
+      <created>1687135727326</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687135727326</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Probar despliegue automatico">
+      <created>1687136184900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687136184900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Generar reporte de cobertura">
+      <created>1687138367717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687138367717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Generar reporte de cobertura">
+      <created>1687140734967</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687140734967</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Generar reporte de cobertura">
+      <created>1687141289713</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687141289714</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Agregar servicio de suma">
+      <created>1687141812513</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687141812513</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Agregar servicio de suma">
+      <created>1687141974327</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687141974327</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Agregar limites de cobertura">
+      <created>1687142740660</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687142740660</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Agregar pruebas">
+      <created>1687142934379</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687142934379</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ajustar inicio de archivos">
+      <created>1687143337821</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687143337821</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Ajustar inicio de archivos">
+      <created>1687143407111</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687143407111</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <MESSAGE value="Test github action" />
+    <MESSAGE value="Agregar tes github action" />
+    <MESSAGE value="Agregar script de inicio" />
+    <MESSAGE value="Ajustar puerto de la aplicacion" />
+    <MESSAGE value="Probar despliegue automatico" />
+    <MESSAGE value="Generar reporte de cobertura" />
+    <MESSAGE value="Agregar servicio de suma" />
+    <MESSAGE value="Agregar limites de cobertura" />
+    <MESSAGE value="Agregar pruebas" />
+    <MESSAGE value="Ajustar inicio de archivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustar inicio de archivos" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
